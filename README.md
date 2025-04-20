@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Multimodal LLM**
 
-- 📫 How to reach me **ismailifakir2@gmail.com**
+- 📫 How to reach me **ismail.ifakir@usmba.ac.ma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
