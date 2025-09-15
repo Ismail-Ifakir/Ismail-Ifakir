@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailifakir" alt="ismailifakir" /></a> </p>
 
-- 🌱 I’m currently learning **Multimodal LLM**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 📫 How to reach me **ismail.ifakir@usmba.ac.ma**
 
